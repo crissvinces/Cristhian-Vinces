@@ -7,9 +7,9 @@ proyectos y mis intereses.
 * [Proyectos](#proyectos)
 * [Intereses](#intereses)
 ## Información personal
-* Nombre: [Tu nombre]
-* Ocupación: [Tu ocupación]
-* Lugar de residencia: [Tu lugar de residencia]
+* Nombre: Cristhian Vinces
+* Ocupación: Estudiante
+* Lugar de residencia: Guayaquil
 * Sitio web: [Tu sitio web]
 ## Proyectos
 * [Lista de tus proyectos]
