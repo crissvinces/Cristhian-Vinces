@@ -10,7 +10,6 @@ proyectos y mis intereses.
 * Nombre: Cristhian Vinces
 * Ocupación: Estudiante
 * Lugar de residencia: Guayaquil
-* Sitio web: [Tu sitio web]
 ## Proyectos
 * Curriculum: https://crissvinces.github.io/curriculum/
 * Landing: https://crissvinces.github.io/landing/
