@@ -12,6 +12,10 @@ proyectos y mis intereses.
 * Lugar de residencia: Guayaquil
 * Sitio web: [Tu sitio web]
 ## Proyectos
-* [Lista de tus proyectos]
+* Curriculum: https://crissvinces.github.io/curriculum/
+* Landing: https://crissvinces.github.io/landing/
+* Dashboard: https://crissvinces.github.io/dashboard/
 ## Intereses
-* [Lista de tus intereses]
+* Futbol
+* Series y peliculas, anime tambien
+* Videojuegos
